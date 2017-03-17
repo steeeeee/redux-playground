@@ -1,0 +1,1 @@
+export const SWITCH_INTENT = 'SWITCH_INTENT';
